@@ -15,7 +15,7 @@ across different Android manufacturers and versions, especially on pre-Lollipop 
 a bit of testing, but it's possible I missed something.
 
 ---
-
+# minSdkVersion 14
 # Gradle Dependency
 
 [![Release](https://img.shields.io/github/release/afollestad/material-camera.svg?label=jitpack)](https://jitpack.io/#afollestad/material-camera)
